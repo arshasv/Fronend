@@ -59,4 +59,4 @@ jobs:
           app-name: 'SkillSageFE'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2709ED375A8460DBF13A29942422699 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_131C8B0762094B7BA103BC60B35B471D }}
